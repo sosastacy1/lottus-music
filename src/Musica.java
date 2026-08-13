@@ -11,7 +11,6 @@ public class Musica {
     public String album;
     public int reproducoes;
 
-
     //metodo get
     public double getDuracao(){
         return duracao;
